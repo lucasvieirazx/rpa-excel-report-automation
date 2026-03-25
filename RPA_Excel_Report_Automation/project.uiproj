@@ -1,0 +1,6 @@
+{
+  "Name": "RPA_Excel_Report_Automation",
+  "ProjectType": "Process",
+  "Description": "This project demonstrates an automation developed using UiPath Studio that consolidates multiple Excel files into a single automated report.",
+  "MainFile": "Main.xaml"
+}
